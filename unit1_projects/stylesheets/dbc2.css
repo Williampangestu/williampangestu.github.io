@@ -29,7 +29,8 @@ div {
 #caption {
 	position: absolute;
 	top: 10px;
-	right:50px;
+	right:55px;
+	font-weight: bold;
 }
 
 #photo{
@@ -41,7 +42,7 @@ div {
 	height:50px;
 	background-color:#F38630;
 	margin-bottom:5px;
-	padding-bottom:6px;
+	padding-bottom:5px;
 }
 
 #center {
