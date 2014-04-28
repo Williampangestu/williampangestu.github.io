@@ -28,7 +28,6 @@ img {
 }
 
 .photo{
-	position: absolute;
 	margin-right: 10px;
 }
 #header {
@@ -40,11 +39,10 @@ img {
 
 #center {
 	height:250px;
-	width:1150px;
+	width:1170px;
 	background-color:#E0E4CC;
 	float: right;
 	margin-bottom:5px;
-	position: absolute;
 }
 
 #left {
