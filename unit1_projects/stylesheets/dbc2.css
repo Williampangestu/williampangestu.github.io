@@ -28,7 +28,8 @@ div {
 }
 #caption {
 	position: absolute;
-	top: 15px;
+	top: 10px;
+	right:10px;
 }
 
 #photo{
