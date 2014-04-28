@@ -39,6 +39,10 @@ div {
 
 #footer {
 	background-color:#69D2E7;
-	height: 150px;
+	height: 100px;
 	clear:both;
+}
+
+.foot {
+	padding:5px 30px 30px ;
 }
