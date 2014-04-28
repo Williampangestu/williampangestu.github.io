@@ -24,17 +24,18 @@ div {
 
 img {
 	margin-right: 45px;
+	margin-left: 45px;
 }
 #header {
 	height:50px;
 	background-color:#F38630;
 	margin-bottom:5px;
-	padding-bottom:10px;
+	padding-bottom:7px;
 }
 
 #center {
 	height:250px;
-	width:1100px;
+	width:1300px;
 	background-color:#E0E4CC;
 	float: right;
 }
@@ -48,7 +49,8 @@ img {
 
 #footer {
 	background-color:#69D2E7;
-	height: 150px;
+	height: 120px;
 	clear:both;
+	margin-top: 5px;
 }
 
