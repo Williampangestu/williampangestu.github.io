@@ -22,6 +22,9 @@ div {
 	text-align: center;
 }
 
+img {
+	margin-right: 10px;
+}
 #header {
 	height:50px;
 	background-color:#F38630;
@@ -45,7 +48,7 @@ div {
 
 #footer {
 	background-color:#69D2E7;
-	height: 100px;
+	height: 150px;
 	clear:both;
 }
 
