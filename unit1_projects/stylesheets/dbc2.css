@@ -26,6 +26,10 @@ div {
 	margin-right: 45px;
 	margin-left: 45px;
 }
+#caption {
+	position: absolute;
+	top: 15px;
+}
 
 #photo{
 	position: absolute;
@@ -36,12 +40,12 @@ div {
 	height:50px;
 	background-color:#F38630;
 	margin-bottom:5px;
-	padding:5px;
+	padding-bottom:8px;
 }
 
 #center {
 	height:250px;
-	width:1200px;
+	width:1250px;
 	background-color:#E0E4CC;
 	float: right;
 	margin-bottom:5px;
@@ -73,5 +77,6 @@ a:visited {
 }
 
 a:hover {
+	color:#00FF00;
 	font-weight: bold;
 }
