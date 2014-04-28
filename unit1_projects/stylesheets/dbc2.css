@@ -22,24 +22,24 @@ div {
 	text-align: center;
 }
 
-img {
+.image {
 	margin-right: 45px;
 	margin-left: 45px;
 }
 
-.photo{
+#photo{
 	margin-right: 10px;
 }
 #header {
 	height:50px;
 	background-color:#F38630;
 	margin-bottom:5px;
-	padding:10px;
+	padding:5px;
 }
 
 #center {
 	height:250px;
-	width:1170px;
+	width:1190px;
 	background-color:#E0E4CC;
 	float: right;
 	margin-bottom:5px;
@@ -61,6 +61,7 @@ img {
 }
 
 a:link {
+	color:#000000;
 	text-decoration: none;
 }
 
