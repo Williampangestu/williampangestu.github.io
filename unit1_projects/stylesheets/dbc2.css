@@ -1,0 +1,44 @@
+.heading {
+	color: white;
+	font-weight:bold;
+}
+
+span {
+	font-weight:bold;
+	color:black;
+}
+
+p {
+	color: white;
+}
+
+div {
+	border-radius: 6px;
+}
+
+#header {
+	height:50px;
+	background-color:#F38630;
+	margin-bottom:10px;
+	padding:3px;
+}
+
+#center {
+	height:500px;
+	width:500px;
+	background-color:69D2E7;
+	margin:auto;
+}
+
+#left {
+	height: 500px;
+	width: 200px;
+	background-color:A7DBD8;
+	float: left;
+}
+
+#footer {
+	background-color:69D2E7;
+	height: 150px;
+	clear:both;
+}
