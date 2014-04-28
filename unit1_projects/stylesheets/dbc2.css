@@ -26,6 +26,11 @@ img {
 	margin-right: 45px;
 	margin-left: 45px;
 }
+
+.photo{
+	position: absolute;
+	margin-right: 10px;
+}
 #header {
 	height:50px;
 	background-color:#F38630;
@@ -35,9 +40,11 @@ img {
 
 #center {
 	height:250px;
-	width:1000px;
+	width:1150px;
 	background-color:#E0E4CC;
 	float: right;
+	margin-bottom:5px;
+	position: absolute;
 }
 
 #left {
@@ -45,6 +52,7 @@ img {
 	width: 200px;
 	background-color:#A7DBD8;
 	float: left;
+	margin-bottom:5px;
 }
 
 #footer {
