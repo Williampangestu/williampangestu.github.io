@@ -1,15 +1,15 @@
 .heading {
-	color: white;
+	color:#FFFFFF;
 	font-weight:bold;
 }
 
 span {
 	font-weight:bold;
-	color:black;
+	color:#000000;
 }
 
 p {
-	color: white;
+	color:white;
 }
 
 div {
@@ -26,19 +26,19 @@ div {
 #center {
 	height:500px;
 	width:500px;
-	background-color:69D2E7;
+	background-color:#69D2E7;
 	margin:auto;
 }
 
 #left {
 	height: 500px;
 	width: 200px;
-	background-color:A7DBD8;
+	background-color:#A7DBD8;
 	float: left;
 }
 
 #footer {
-	background-color:69D2E7;
+	background-color:#69D2E7;
 	height: 150px;
 	clear:both;
 }
