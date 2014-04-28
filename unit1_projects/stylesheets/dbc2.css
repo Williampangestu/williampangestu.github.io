@@ -28,7 +28,9 @@ div {
 }
 
 #photo{
-	margin-right: 10px;
+	position: absolute;
+	right: 10px;
+	bottom: 10px;
 }
 #header {
 	height:50px;
@@ -39,10 +41,11 @@ div {
 
 #center {
 	height:250px;
-	width:1190px;
+	width:1200px;
 	background-color:#E0E4CC;
 	float: right;
 	margin-bottom:5px;
+	position: relative;
 }
 
 #left {
