@@ -23,24 +23,24 @@ div {
 }
 
 img {
-	margin-right: 40px;
+	margin-right: 45px;
 }
 #header {
 	height:50px;
 	background-color:#F38630;
 	margin-bottom:5px;
-	padding-bottom:3px;
+	padding-bottom:10px;
 }
 
 #center {
-	height:300px;
+	height:250px;
 	width:1100px;
 	background-color:#E0E4CC;
 	float: right;
 }
 
 #left {
-	height: 300px;
+	height: 250px;
 	width: 200px;
 	background-color:#A7DBD8;
 	float: left;
