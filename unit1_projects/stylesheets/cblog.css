@@ -1,0 +1,39 @@
+div {
+	border-radius:6px;
+	padding: 5px;
+	display: block;
+	width: 1200px;
+	margin: auto
+}
+
+#question {
+	font-weight: bold;
+	font-size: 20px;
+}
+
+#header{
+	background-color: #FF4719;
+	border: 2px solid #000000;
+	text-align: center;
+	margin-bottom: 7px;
+}
+
+#content {
+	background-color: #FFA319;
+	border: 2px solid #000000;
+}
+
+h1{
+	font-size: 56px;
+	color: #000000;
+}
+
+ul{
+	color: #000000;
+	font-size: 18px;
+}
+
+p{
+	color: #000000;
+	font-size: 18px;
+}
