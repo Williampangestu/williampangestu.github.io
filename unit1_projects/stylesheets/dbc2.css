@@ -59,7 +59,7 @@ div {
 #left {
 	height: 250px;
 	width: 200px;
-	background-color: #5EDDCE;
+	background-color: #58CFCF;
 	float: left;
 	margin-bottom:5px;
 }
@@ -77,7 +77,7 @@ a:link {
 }
 
 a:visited {
-	color:#FF0000;
+	color:#FFFFFF;
 }
 
 a:hover {
