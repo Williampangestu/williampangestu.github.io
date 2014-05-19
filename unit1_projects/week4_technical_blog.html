@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Technical Blog</title>
+	<link type="text/css" rel="stylesheet" href="stylesheets/tblog.css"/>
+</head>
+
+<body>
+	<div id="header">
+		<h1>Technical Blog 4</h1>
+		<p id = "date">Saturday, May 17 2014</p>
+	</div>
+
+	<div id="content">
+		<p id = "title"> Array vs. Hashes </p>
+		<p>Ruby's arrays and hashes are indexed collections, they store collections of objects, which are accessible using a key. Both arrays and hashes grow as needed to hold new elements. I personally think it's more efficient to access array elements, but hashes provide more flexibility. Moreover, any particular array or hash can hold objects of differing types; you can have an array/hash containing an integer, a string, and a floating point number.</p>
+
+		<p id ="span">Array</p>
+		<p> An Array is just a list of items in order. Every slot in the list acts like a variable: you can see what object a particular slot points to, and you can make it point to a different object. You can make an array by using square brackets. In Ruby, the first value in an array has index 0. The size and length methods return the number of elements in an array. Negative index values count from the end of the array, so the last element of an array can also be accessed with an index of -1. In addition, Ruby's arrays are mutable, which means arrays are dynamically resizable, you can append elements to them and they grow as needed.
+
+		</p>
+
+		<p id ="span">Hash</p>
+		<p> Hashes are similar to arrays in that they are indexed collection of object references. However, while you index arrays with integers, you can index a hash with objects of any types: strings, regular expressions, and so on. When you store a value in a hash, you actually supply two objects: the index, which normally called the key and the value. You can subsequently retrieve the value by indexing the hash with the same key. The values in a hash can be objects of any type. Hashes also have a default value that is returned when an attempt is made to access keys that do not exist in the hash. By default this value is nil.
+
+		</p>
+
+	</div>
+</body>
+</html>

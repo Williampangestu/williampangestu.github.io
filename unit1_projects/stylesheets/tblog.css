@@ -6,9 +6,16 @@ div {
 	margin: auto
 }
 
-span {
+#date {
+	text-align: center;
+	font-size: 18px
+}
+
+
+#span {
 	font-weight: bold;
 	font-size: 24px;
+	text-align: center;
 }
 
 #header{
@@ -30,5 +37,12 @@ h1{
 
 p{
 	color: #000000;
-	font-size: 20px;
+	font-size: 18px;
+	text-align: justify;
+}
+
+#title {
+	text-align: center;
+	font-size: 40px;
+	font-weight: bold;
 }
