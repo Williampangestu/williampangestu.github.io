@@ -40,6 +40,11 @@ p{
 	margin-right: 10px;
 }
 
+.title {
+	font-size: 22px;
+	font-weight: bold;
+}
+
 img {
 	border: 2px solid black;
 	border-radius: 12px;
